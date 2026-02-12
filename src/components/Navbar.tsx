@@ -44,7 +44,7 @@ const Navbar = () => {
             handleClick("#accueil");
           }}
         >
-          Arivony<span className="text-primary">.</span>
+          ARIVONY Rajaonah<span className="text-primary">.</span>
         </a>
 
         {/* Desktop */}
